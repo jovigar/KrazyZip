@@ -1,2 +1,2 @@
-# CrazyZip
+# KrazyZip
 Compression Program
