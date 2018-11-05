@@ -1,3 +1,3 @@
 # KrazyZip
-Compression Program using artificial intelligence.
+Compression Program using Artificial Intelligence.
 Java programming language
